@@ -1,0 +1,8 @@
+config.py
+data.json
+/venv
+**/__pycache__
+*.wpr
+*.wpu
+test.py
+todo.txt
